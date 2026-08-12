@@ -375,6 +375,10 @@ img {
     border: 1px solid #444;
 }
 
+.education-card + .education-card {
+    margin-top: 20px;
+}
+
 .education-year {
     color: var(--primary);
     font-size: 1.4rem;
