@@ -432,6 +432,10 @@ a, button {
     border-left: 4px solid var(--success);
 }
 
+.education-card + .education-card {
+    margin-top: 20px;
+}
+
 .education-year {
     color: var(--primary);
     font-size: 1.4rem;
